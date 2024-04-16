@@ -1,9 +1,14 @@
 # Quick links for installing Synergy on Debian
 
-## Prereqs
+## Debian Prereqs
 
 ```bash
 sudo apt install libqt5core5a libqt5dbus5 libqt5gui5 libqt5network5 libqt5widgets5
+```
+## Flatpak Prereqs
+
+```bash
+sudo apt install flatpak
 ```
 
 ## Download 
