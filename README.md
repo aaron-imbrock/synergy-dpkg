@@ -9,6 +9,8 @@ sudo apt install libqt5core5a libqt5dbus5 libqt5gui5 libqt5network5 libqt5widget
 
 ```bash
 sudo apt install flatpak
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+flatpak install synergy3-latest.flatpak
 ```
 
 ## Download 
