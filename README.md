@@ -23,4 +23,4 @@ flatpak install synergy3-latest.flatpak
 ## Synergy 3
 [Debian: Synergy 3 Latest](http://lunchables.net/synergy-linux_x64-libssl3-v3.0.79.1-rc3.deb)
 
-[Flatpak: Synergy 3 Latest](http://lunchables.net/synergy3-latest.flatpak)
+[Flatpak: Synergy 3 Latest](http://lunchables.net/synergy3-latest.flatpak) * Use this one.
