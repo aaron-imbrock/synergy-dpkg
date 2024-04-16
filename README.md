@@ -15,4 +15,5 @@ sudo apt install libqt5core5a libqt5dbus5 libqt5gui5 libqt5network5 libqt5widget
 
 ## Synergy 3
 [Debian: Synergy 3 Latest](http://lunchables.net/synergy-linux_x64-libssl3-v3.0.79.1-rc3.deb)
+
 [Flatpak: Synergy 3 Latest](http://lunchables.net/synergy3-latest.flatpak)
